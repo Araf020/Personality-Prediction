@@ -7,15 +7,15 @@ To get started with the project, you will need to ensure that you have Python an
 
 The main features of the Personality Trait Prediction application include:
 
-Data preprocessing: The application includes scripts for data cleaning, feature scaling, and data normalization to ensure the data is ready for use by the machine learning algorithms.
+      Data preprocessing: The application includes scripts for data cleaning, feature scaling, and data normalization to ensure the data is ready for use by the machine  learning algorithms.
 
-Feature selection: The application uses feature selection techniques to identify the most relevant features for the prediction task.
+      Feature selection: The application uses feature selection techniques to identify the most relevant features for the prediction task.
 
-Machine learning: The application uses several machine learning algorithms, such as Random Forest, Support Vector Machines, and Gradient Boosting, to predict personality traits.
+      Machine learning: The application uses several machine learning algorithms, such as Random Forest, Support Vector Machines, and Gradient Boosting, to predict personality traits.
 
-Model evaluation: The application includes scripts for evaluating the performance of the machine learning models using metrics such as accuracy, precision, and recall.
+      Model evaluation: The application includes scripts for evaluating the performance of the machine learning models using metrics such as accuracy, precision, and recall.
 
-Visualization: The application includes visualization tools using Seaborn and Matplotlib to help you understand the data and the performance of the machine learning models.
+      Visualization: The application includes visualization tools using Seaborn and Matplotlib to help you understand the data and the performance of the machine learning models.
 
 We have included comprehensive documentation within the project, which should help you understand the code structure and functionality of each component.
 
